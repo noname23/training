@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ipcserver">
+    <serverData>
+      <paths name="ipcserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="testphp" local="$PROJECT_DIR$/../testphp" web="/testphp" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

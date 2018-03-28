@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fad8b81e-54ef-48e7-a1c6-dac7d73b8760" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="209" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="214" selection-end-column="2" />
+              <folding>
+                <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+                <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+                <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+                <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+                <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+                <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+                <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+                <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+                <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+                <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+                <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+                <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coba.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coba.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-510">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding>
+                <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+                <marker date="1520821806488" expanded="true" signature="1281:1331" ph="select * fro... nasabah" />
+                <marker date="1520821806488" expanded="true" signature="2038:2087" ph="select * fro... nasabah" />
+                <marker date="1520821806488" expanded="true" signature="3017:3117" ph="select * fro... rekening" />
+                <marker date="1520821806488" expanded="true" signature="3692:3791" ph="select * fro... rekening" />
+                <marker date="1520821806488" expanded="true" signature="4768:4853" ph="select saldo... rekening" />
+                <marker date="1520821806488" expanded="true" signature="5417:5501" ph="select saldo... rekening" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coret.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coret.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="634">
+              <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding>
+                <marker date="1522224943747" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+                <marker date="1522224943747" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+                <marker date="1522224943747" expanded="true" signature="1429:1478" ph="select * fro... nasabah" />
+                <marker date="1522224943747" expanded="true" signature="1978:2064" ph="select saldo... rekening" />
+                <marker date="1522224943747" expanded="true" signature="2447:2533" ph="select saldo... rekening" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/coba.php" />
+        <option value="$PROJECT_DIR$/test1.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/coret.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="466854e1-9b4b-4420-ae9e-8ef452f961bc" name="ipcserver" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testphp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testphp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.testApp">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="coba.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/coba.php" />
+    <configuration name="coret.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/testphp/coret.php" />
+    <configuration name="test1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/test1.php" />
+    <configuration name="testApp" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="ipcserver" start_url="/testphp/">
+      <method>
+        <option name="FtpUpload" enabled="true">
+          <server_id>76e54118-3593-4b76-8e4b-3b0403ef9fda</server_id>
+          <server_name>ipcserver</server_name>
+          <path>D:\testphp</path>
+        </option>
+      </method>
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.testApp" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.test1.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.coba.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.coret.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.coret.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fad8b81e-54ef-48e7-a1c6-dac7d73b8760" name="Default" comment="" />
+      <created>1519978428740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519978428740</updated>
+      <workItem from="1519978431386" duration="15069000" />
+      <workItem from="1520214216327" duration="31158000" />
+      <workItem from="1520254586319" duration="788000" />
+      <workItem from="1520301583309" duration="32448000" />
+      <workItem from="1520388417946" duration="27096000" />
+      <workItem from="1520559603727" duration="25572000" />
+      <workItem from="1520819199656" duration="22334000" />
+      <workItem from="1520993752437" duration="2330000" />
+      <workItem from="1521080131229" duration="577000" />
+      <workItem from="1521107179113" duration="1507000" />
+      <workItem from="1521168163168" duration="310000" />
+      <workItem from="1521442830953" duration="3832000" />
+      <workItem from="1522218168701" duration="7952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="170973000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28152174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1108742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.225" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="39" lean-forward="false" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="35" lean-forward="true" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="43" lean-forward="true" selection-start-line="129" selection-start-column="43" selection-end-line="129" selection-end-column="43" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="7" lean-forward="true" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="1281:1331" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="2038:2087" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="3017:3117" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="3692:3791" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="4768:4853" ph="select saldo... rekening" />
+            <marker date="1520821806488" expanded="true" signature="5417:5501" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="2" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="1281:1331" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="2038:2087" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="3017:3117" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="3692:3791" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="4768:4853" ph="select saldo... rekening" />
+            <marker date="1520821806488" expanded="true" signature="5417:5501" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="1281:1331" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="2038:2087" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="3017:3117" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="3692:3791" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="4768:4853" ph="select saldo... rekening" />
+            <marker date="1520821806488" expanded="true" signature="5417:5501" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="1281:1331" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="2038:2087" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="3017:3117" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="3692:3791" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="4768:4853" ph="select saldo... rekening" />
+            <marker date="1520821806488" expanded="true" signature="5417:5501" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="1281:1331" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="2038:2087" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="3017:3117" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="3692:3791" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="4768:4853" ph="select saldo... rekening" />
+            <marker date="1520821806488" expanded="true" signature="5417:5501" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="1281:1331" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="2038:2087" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="3017:3117" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="3692:3791" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="4768:4853" ph="select saldo... rekening" />
+            <marker date="1520821806488" expanded="true" signature="5417:5501" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="122" column="28" lean-forward="true" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
+          <folding>
+            <marker date="1520824359643" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1520824359643" expanded="true" signature="2243:2310" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="2771:2838" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3479:3546" ph="select saldo... rekening" />
+            <marker date="1520824359643" expanded="true" signature="3996:4063" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="209" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="214" selection-end-column="2" />
+          <folding>
+            <marker date="1522221144183" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="1498:1547" ph="select * fro... nasabah" />
+            <marker date="1522221144183" expanded="true" signature="2402:2469" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="2930:2997" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="3638:3705" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4155:4222" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4915" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4848:4934" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="4976:5062" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6311:6397" ph="select saldo... rekening" />
+            <marker date="1522221144183" expanded="true" signature="6780:6866" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="1281:1331" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="2038:2087" ph="select * fro... nasabah" />
+            <marker date="1520821806488" expanded="true" signature="3017:3117" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="3692:3791" ph="select * fro... rekening" />
+            <marker date="1520821806488" expanded="true" signature="4768:4853" ph="select saldo... rekening" />
+            <marker date="1520821806488" expanded="true" signature="5417:5501" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10294">
+          <caret line="606" column="9" lean-forward="false" selection-start-line="606" selection-start-column="9" selection-end-line="606" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coret.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <marker date="1522224943747" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522224943747" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522224943747" expanded="true" signature="1429:1478" ph="select * fro... nasabah" />
+            <marker date="1522224943747" expanded="true" signature="1978:2064" ph="select saldo... rekening" />
+            <marker date="1522224943747" expanded="true" signature="2447:2533" ph="select saldo... rekening" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>testphp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

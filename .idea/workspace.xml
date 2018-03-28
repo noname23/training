@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fad8b81e-54ef-48e7-a1c6-dac7d73b8760" name="Default" comment="" />
+    <list default="true" id="fad8b81e-54ef-48e7-a1c6-dac7d73b8760" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +41,7 @@
       <file leaf-file-name="coba.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coba.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
+            <state relative-caret-position="102">
               <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
@@ -56,14 +59,14 @@
       <file leaf-file-name="coret.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coret.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="498">
+              <caret line="86" column="31" lean-forward="false" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
               <folding>
-                <marker date="1522224943747" expanded="true" signature="367:398" ph="select * fro... nasabah" />
-                <marker date="1522224943747" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
-                <marker date="1522224943747" expanded="true" signature="1429:1478" ph="select * fro... nasabah" />
-                <marker date="1522224943747" expanded="true" signature="1978:2064" ph="select saldo... rekening" />
-                <marker date="1522224943747" expanded="true" signature="2447:2533" ph="select saldo... rekening" />
+                <marker date="1522227522378" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+                <marker date="1522227522378" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+                <marker date="1522227522378" expanded="true" signature="1429:1478" ph="select * fro... nasabah" />
+                <marker date="1522227522378" expanded="true" signature="1978:2064" ph="select saldo... rekening" />
+                <marker date="1522227522378" expanded="true" signature="2447:2533" ph="select saldo... rekening" />
               </folding>
             </state>
           </provider>
@@ -75,6 +78,9 @@
     <findStrings>
       <find>value</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -109,6 +115,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -294,12 +301,12 @@
       <workItem from="1521107179113" duration="1507000" />
       <workItem from="1521168163168" duration="310000" />
       <workItem from="1521442830953" duration="3832000" />
-      <workItem from="1522218168701" duration="7952000" />
+      <workItem from="1522218168701" duration="9642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170973000" />
+    <option name="totallyTimeSpent" value="172663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -315,7 +322,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28152174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -810,9 +817,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10294">
+          <caret line="606" column="9" lean-forward="false" selection-start-line="606" selection-start-column="9" selection-end-line="606" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coba.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
+        <state relative-caret-position="102">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
             <marker date="1520821806488" expanded="true" signature="367:398" ph="select * fro... nasabah" />
@@ -826,24 +841,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10294">
-          <caret line="606" column="9" lean-forward="false" selection-start-line="606" selection-start-column="9" selection-end-line="606" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coret.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="498">
+          <caret line="86" column="31" lean-forward="false" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
           <folding>
-            <marker date="1522224943747" expanded="true" signature="367:398" ph="select * fro... nasabah" />
-            <marker date="1522224943747" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
-            <marker date="1522224943747" expanded="true" signature="1429:1478" ph="select * fro... nasabah" />
-            <marker date="1522224943747" expanded="true" signature="1978:2064" ph="select saldo... rekening" />
-            <marker date="1522224943747" expanded="true" signature="2447:2533" ph="select saldo... rekening" />
+            <marker date="1522227522378" expanded="true" signature="367:398" ph="select * fro... nasabah" />
+            <marker date="1522227522378" expanded="true" signature="1039:1088" ph="select * fro... nasabah" />
+            <marker date="1522227522378" expanded="true" signature="1429:1478" ph="select * fro... nasabah" />
+            <marker date="1522227522378" expanded="true" signature="1978:2064" ph="select saldo... rekening" />
+            <marker date="1522227522378" expanded="true" signature="2447:2533" ph="select saldo... rekening" />
           </folding>
         </state>
       </provider>
